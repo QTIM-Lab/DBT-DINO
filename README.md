@@ -1,4 +1,4 @@
-# DBT_DINO
+# DBT-DINO
 
 This repository contains the code necessary to run training and inference on the DBT-Dino model.
 
@@ -8,7 +8,7 @@ The code used to train the downstream models presented in the paper can be found
 
 ## Using DBT-DINO
 ### Embedding Extraction
-The weights for DBT-DINO are provided on Zenodo: LinktoZenodo
+The weights for DBT-DINO are provided on Zenodo: https://zenodo.org/records/17981813
 
 ### Downstream Tasks
 Coming soon
